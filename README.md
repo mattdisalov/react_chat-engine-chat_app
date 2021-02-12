@@ -1,3 +1,21 @@
+<b>DEMO:</b> https://react-chat-engine.netlify.app/
+
+<b>Login info:</b>
+
+<b>Username:</b> Matt (admin), Zack, Ramona, artistic_soul, henry92, john-1976
+
+<b>Password:</b> 112233 (for everybody)
+
+This project breaks down everything about creating a React Chat App. With online statuses, great design and functionality, icons telling you who read the message, image support, the ability to create multiple rooms, and much more.
+
+Covered: Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS.
+
+Backend is hosted by https://chatengine.io	
+
+
+![Screenshot](pwa-test-chatapp.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
